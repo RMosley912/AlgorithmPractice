@@ -45,4 +45,4 @@ Open [Unsolved/fizz-buzz.js](Unsolved/fizz-buzz.js) in your code editor&mdash;th
 
 ---
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
