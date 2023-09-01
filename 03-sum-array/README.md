@@ -30,4 +30,3 @@ In this activity you will be writing code to create a function that adds up all 
 
 ---
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
