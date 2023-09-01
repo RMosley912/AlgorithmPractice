@@ -17,5 +17,3 @@ Open [Unsolved/vowel-count.js](Unsolved/vowel-count.js) in your code editor&mdas
   - Functions that FAIL the tests will be denoted with a red X and an error message.
 
 ---
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
