@@ -30,4 +30,4 @@ Open [Unsolved/max-num.js](Unsolved/max-num.js) in your code editor&mdash;this i
 
 ---
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
