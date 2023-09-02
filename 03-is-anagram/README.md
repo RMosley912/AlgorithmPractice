@@ -54,4 +54,3 @@ You can approach this problem by trying to find out if both strings are the same
 
 ---
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
