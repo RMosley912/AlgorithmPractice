@@ -47,4 +47,3 @@ In this activity, you will be writing code to create a function that takes an ar
 * This problem can also be solved using one loop, applying the same technique used in the previous Character Count and Is Unique problems.
 
 ---
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
