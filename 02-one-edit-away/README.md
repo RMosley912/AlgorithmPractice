@@ -81,4 +81,3 @@ In this activity, you will create a function that takes in two strings and retur
 * Think about different edits that can be made to a string. Besides changing a letter to another letter, what other ways can a string be edited?
 
 ---
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
