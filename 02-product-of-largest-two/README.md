@@ -33,5 +33,3 @@ In this activity you will be writing code to create a function that finds the la
   * Functions that fail the tests will be denoted with a red X and an error message.
 
 ---
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
