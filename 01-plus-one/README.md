@@ -45,6 +45,3 @@ In this activity, you will create a function that takes in an array of digits re
 ### Hints
 
 * How will you handle the case where a digit overflows (i.e., becomes more than 9)?
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
