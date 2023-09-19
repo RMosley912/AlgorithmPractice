@@ -42,5 +42,4 @@ Open [Unsolved/squares-of-a-sorted-array.js](Unsolved/squares-of-a-sorted-array.
 
   * Functions that FAIL the tests will be denoted with a red X and an error message.
 
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+-
