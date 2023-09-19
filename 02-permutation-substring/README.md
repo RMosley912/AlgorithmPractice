@@ -35,5 +35,3 @@ In this activity you will be writing code to create a function that takes in two
 
 If this problem is too difficult, practice the previous `is-unique` and `is-anagram` problems.
 
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
