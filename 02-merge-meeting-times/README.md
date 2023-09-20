@@ -52,5 +52,4 @@ In this activity, you will create a function that takes in a 2D array of meeting
 
 * You should begin this problem by sorting the provided 2D array by start times.
 
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
